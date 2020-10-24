@@ -15,8 +15,8 @@ qss_hybrid_electric_vehicle.slx -> src\Controller.m
 ## Setup
 
 1) Download QSS Toolbox from [Downloads ETH Zürich](https://idsc.ethz.ch/research-guzzella-onder/downloads.html)
-2) Copy both files from src to \Functions folder
-3) Copy qss_hybrid_electric_vehicle.slx to \Examples\OptimalTransmissionDesign
+2) Copy both files from src to `\Functions` folder
+3) Copy qss_hybrid_electric_vehicle.slx to `\Examples\OptimalTransmissionDesign`
 4) Set current directory to QSS Toolbox in Matlab (add all folders and subfolders to path)
 5) Open qss_hybrid_electric_vehicle.slx and select cycle from Driving Cycle block
 6) Run Simulation. Enjoy!
